@@ -20,7 +20,7 @@ This project is an opportunity management application that detects duplicate or 
 ## Setup and Installation
 
 ### Prerequisites
-- Python 3.x
+- Python 3
 - MySQL Database
 - Flask
 - `sentence-transformers` library
